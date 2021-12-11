@@ -4,7 +4,7 @@ const {
 } = require('discord.js');
 const bot = new Client();
 
-const token ='OTExNTQyNTg3NjU0MDI1MzA2.YZi6MA.fCKZa-8YTYvPiVoZ0c5Ux1-zNL8';
+const token = ; //your discord bot token
 
 const PREFIX = '-';
 
